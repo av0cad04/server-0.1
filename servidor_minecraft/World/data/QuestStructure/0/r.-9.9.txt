@@ -2,3 +2,4 @@ RLCraft_BasicWitch,-5043,-5043,4636,4636
 RLCraft_UndergroundRuin1,-5049,-5040,4630,4639
 DinosaurSkull,-5034,-5023,4661,4680
 StoneBoulder,-4878,-4869,4647,4656
+StonePlantMound1,-4868,-4862,4657,4663
