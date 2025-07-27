@@ -1,23 +1,23 @@
 [PREINITIALIZATION][SERVER][INFO] Thank you to the Patreon supporters below and others who make CraftTweaker possible!
-Quaternary
-Jordan Pineo
-Jessie Sims
-Zuniroa
-Hooley
-DreamThorn
-NerdyWhiteGuy
-Ncc1702
-Pongo Sapiens
-Genryu
 Belathus
-embeddedt
-NickT
+Jordan Pineo
+Peregrinus11
+Jellycraft
 Spencer Gilbert
 Jonathan McManus
+Quaternary
+Zuniroa
+NerdyWhiteGuy
+Jessie Sims
 Lucas
-Peregrinus11
+NickT
+Pongo Sapiens
+Ncc1702
+Genryu
 Ivy_
-Jellycraft
+embeddedt
+Hooley
+DreamThorn
 If you want to support the mod, checkout https://patreon.com/jaredlll08?s=crtmod
 
 [PREINITIALIZATION][SERVER][INFO] Current loaders after merging: [[preinit]]
@@ -29,7 +29,7 @@ If you want to support the mod, checkout https://patreon.com/jaredlll08?s=crtmod
 [PREINITIALIZATION][SERVER][INFO] [preinit | SIDE_SERVER]: Skipping file {[0:crafttweaker]: Shiv.zs} as we are currently loading with a different loader
 [PREINITIALIZATION][SERVER][INFO] [preinit | SIDE_SERVER]: Skipping file {[0:crafttweaker]: Shiv2.zs} as we are currently loading with a different loader
 [PREINITIALIZATION][SERVER][INFO] [preinit | SIDE_SERVER]: Skipping file {[0:contenttweaker]: why.zs} as we are currently loading with a different loader
-[PREINITIALIZATION][SERVER][INFO] Completed script loading in: 3ms
+[PREINITIALIZATION][SERVER][INFO] Completed script loading in: 2ms
 [PREINITIALIZATION][SERVER][INFO] Current loaders after merging: [[preinit], [contenttweaker]]
 [PREINITIALIZATION][SERVER][INFO] Loading scripts for loader with names [contenttweaker]
 [PREINITIALIZATION][SERVER][INFO] [contenttweaker | SIDE_SERVER]: Skipping file {[0:crafttweaker]: LootTweaker_Champions.zs} as we are currently loading with a different loader
@@ -39,7 +39,7 @@ If you want to support the mod, checkout https://patreon.com/jaredlll08?s=crtmod
 [PREINITIALIZATION][SERVER][INFO] [contenttweaker | SIDE_SERVER]: Skipping file {[0:crafttweaker]: Shiv.zs} as we are currently loading with a different loader
 [PREINITIALIZATION][SERVER][INFO] [contenttweaker | SIDE_SERVER]: Skipping file {[0:crafttweaker]: Shiv2.zs} as we are currently loading with a different loader
 [PREINITIALIZATION][SERVER][INFO] [contenttweaker | SIDE_SERVER]: Loading Script: {[0:contenttweaker]: why.zs}
-[PREINITIALIZATION][SERVER][INFO] Completed script loading in: 295ms
+[PREINITIALIZATION][SERVER][INFO] Completed script loading in: 296ms
 [INITIALIZATION][SERVER][INFO] CraftTweaker: Building registry
 [INITIALIZATION][SERVER][INFO] CraftTweaker: Successfully built item registry
 [INITIALIZATION][SERVER][INFO] Current loaders after merging: [[preinit], [contenttweaker], [recipeevent | crafttweaker]]
@@ -8419,7 +8419,7 @@ Exception Details:
 	at crafttweaker.runtime.CrTTweaker.loadScript(CrTTweaker.java:240)
 	at crafttweaker.runtime.CrTTweaker.loadScript(CrTTweaker.java:105)
 	at crafttweaker.mc1120.events.CommonEventHandler.registerRecipes(CommonEventHandler.java:71)
-	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_454_CommonEventHandler_registerRecipes_Register.invoke(.dynamic)
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_453_CommonEventHandler_registerRecipes_Register.invoke(.dynamic)
 	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90)
 	at net.minecraftforge.fml.common.eventhandler.EventBus$1.invoke(EventBus.java:144)
 	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:182)
@@ -8871,7 +8871,7 @@ Exception Details:
 [INITIALIZATION][SERVER][INFO] Altering Cauldron Brewing Recipe(s) for "rlmixins:curse_break"
 [INITIALIZATION][SERVER][INFO] Script ending!
 [INITIALIZATION][SERVER][INFO] [crafttweaker | SIDE_SERVER]: Skipping file {[0:contenttweaker]: why.zs} as we are currently loading with a different loader
-[INITIALIZATION][SERVER][INFO] Completed script loading in: 392ms
+[INITIALIZATION][SERVER][INFO] Completed script loading in: 426ms
 [POSTINITIALIZATION][SERVER][INFO] Removing recipes for various outputs
 [POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Stalagnate Fence with name lolarecipe146
 [POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Reeds Fence with name lolarecipe147
