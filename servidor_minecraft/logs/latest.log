@@ -5105,3 +5105,695 @@ XP Tome: Requires version v1.1.6 but mod is not found on client.
 iChunUtil: Requires version 7.2.0 or above, and below 7.3.0 but mod is not found on client.
 playerbosses: Requires version 1.0 but mod is not found on client.
 [03:24:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Aoshix_men left the game
+[03:27:57] [Netty Epoll Server IO #4/INFO] [FML]: Client protocol version 2
+[03:27:57] [Netty Epoll Server IO #4/INFO] [FML]: Client attempting to join with 5 mods : minecraft@1.12.2,tlauncher_custom_cape_skin@1.4,FML@8.0.99.99,forge@14.23.5.2860,mcp@9.42
+[03:27:57] [Netty Epoll Server IO #4/INFO] [FML]: Attempting connection with missing mods [creativecoredummy, itemphysic, ivtoolkit, foamfixcore, tnt_utilities_core, adhooks, advanced-fishing, aireducer, alcatrazcore, antiqueatlas, antiquecities, anvilpatch, aquaculture, armorunder, astikorcarts, attributefix, autoreglib, base, battletowers, baubles, bedbreakbegone, mujmajnkraftsbettersurvival, bettercaves, bettermineshafts, betternether, betterquesting, bettertabs, bloodmoon, bnbgaminglib, bountifulbaubles, bountiful, bq_msi, bqtweaker, callablehorses, carrots, carryon, champions, charm, classyhats, collisiondamage, comforts, compatskills, contenttweaker, coralreef, corpsecomplex, craftablechainmail, crafttweaker, crafttweakerjei, creativecore, defiledlands, disenchanter, dldungeonsjbg, dsurround, dynamictrees, dynamictreesdefiledlands, dttraverse, elenaidodge, enhancedvisuals, familiarfauna, fantasticlib, firstaid, fishingmadebetter, foamfix, foodexpansion, forgeendertech, forgelin, forgottenitems, framevoidpatch, friendlyendermite, fxcontrol, globalgamerules, grapplemod, helpfixer, iceandfire, ichunutil, incontrol, infernalmobs, inspirations, inventorytweaks, iseedragons, itlt, jei, levelup2, librarianliblate, librarianlib, locks, loottweaker, lostcities, lycanitesmobs, mantle, materialtweaker, mcwbridges, testdummy, mobends, modtweaker, mtlib, multimine, notreepunching, pigstep, placebo, playerbosses, portaldupebegone, potioncore, potionfingers, qualitytools, quark, reachfix, realistictorches, reborncore, reccomplex, reskillable, artifacts, bettercombatmod, rlmixins, rltweaker, roguelike, roughtweaks, ruins, rustic, scalinghealth, sereneseasons, setbonus, shieldbreak, silentlib, simpledifficulty, sit, snowrealmagic, somanyenchantments, spark, spartandefiled, spartanfire, spartanshields, spartanweaponry, spawnercontrol, srparasites, bq_standard, surge, switchbow, tnt_utilities, toolbelt, traverse, xat, trumpetskeleton, tschipplib, tumbleweed, variedcommodities, waystones, wearablebackpacks, wolfarmor, xpfromharvest, xpbook, yungslaw, phosphor-lighting, rtg, llibrary, orelib, kiwi] at CLIENT
+[03:27:57] [Netty Epoll Server IO #4/INFO] [LootTweaker]: Accepted non-existent client LootTweaker install
+[03:27:57] [Netty Epoll Server IO #4/INFO] [FML]: Rejecting connection CLIENT: Advanced Fishing: Requires version 1.3.3 but mod is not found on client.
+Advanced Hook Launchers: Requires version 1.12.2-3.3.1.0 but mod is not found on client.
+AlcatrazCore: Requires version 1.0.4 but mod is not found on client.
+Antique Atlas: Requires version 4.6.3 but mod is not found on client.
+Antique Cities: Requires version 1.0 but mod is not found on client.
+Anvil Patch - Lawful: Requires version 1.1.1 but mod is not found on client.
+Aquaculture: Requires version 1.6.8 but mod is not found on client.
+Armor Underwear: Requires version 1.0.0 but mod is not found on client.
+AstikorCarts: Requires version 1.12.2-0.1.2.8 but mod is not found on client.
+Attribute Fix: Requires version 1.0.12 but mod is not found on client.
+AutoRegLib: Requires version 1.3-32 but mod is not found on client.
+B.A.S.E: Requires version 3.14.0 but mod is not found on client.
+BQ Multiblock and Structure Expansion: Requires version 1.0.9 but mod is not found on client.
+BQTweaker: Requires version 1.3.5 but mod is not found on client.
+Battle Towers: Requires version 1.6.5 but mod is not found on client.
+Baubles: Requires version 1.5.2 but mod is not found on client.
+Better Nether: Requires version 0.1.8.6 but mod is not found on client.
+Better Questing: Requires version 3.5.329 but mod is not found on client.
+Better Survival: Requires version 1.5.3 but mod is not found on client.
+BetterTabs: Requires version 1.0.4 but mod is not found on client.
+Bloodmoon: Requires version 1.5.3 but mod is not found on client.
+Bountiful: Requires version 2.2.3 but mod is not found on client.
+Bountiful Baubles: Requires version 0.0.1 but mod is not found on client.
+Callable Horses: Requires version 1.1.1 but mod is not found on client.
+Carrots Lib: Requires version 1.0.0b1 but mod is not found on client.
+Carry On: Requires version 1.12.3 but mod is not found on client.
+Champions: Requires version 1.12.2-1.0.11.10 but mod is not found on client.
+Charm: Requires version 1.4 but mod is not found on client.
+Classy Hats: Requires version %VERSION% but mod is not found on client.
+CollisionDamage: Requires version 1.2.2 but mod is not found on client.
+Comforts: Requires version 1.4.1.3 but mod is not found on client.
+CompatSkills: Requires version 1.12.2-1.17.0 but mod is not found on client.
+ContentTweaker: Requires version 1.12.2-4.10.0 but mod is not found on client.
+Coralreef: Requires version 2.0 but mod is not found on client.
+Corpse Complex: Requires version 1.0.12.0 but mod is not found on client.
+CraftTweaker JEI Support: Requires version 2.0.3 but mod is not found on client.
+CraftTweaker2: Requires version 4.1.20 but mod is not found on client.
+Craftable Chainmail: Requires version 1.0 but mod is not found on client.
+CreativeCore: Requires version 1.10.0 but mod is not found on client.
+Defiled Lands: Requires version 1.4.3 but mod is not found on client.
+Disenchanter: Requires version 1.8 but mod is not found on client.
+Dynamic Trees: Requires version 1.12.2-0.9.29 but mod is not found on client.
+Dynamic Trees for Defiled Lands: Requires version 1.12.2-1.0.0 but mod is not found on client.
+Dynamic Trees for Traverse: Requires version 1.12.2-2.1 but mod is not found on client.
+Elenai Dodge: Requires version 2.1 but mod is not found on client.
+Enhanced Visuals: Requires version 1.3.0 but mod is not found on client.
+Familiar Fauna: Requires version 1.0.11 but mod is not found on client.
+First Aid: Requires version 1.6.22 but mod is not found on client.
+Fishing Made Better: Requires version 2.2.6 but mod is not found on client.
+Food Expansion: Requires version 1.3 but mod is not found on client.
+Forge Endertech: Requires version 1.12.2-4.5.6.1 but mod is not found on client.
+Forgotten Items: Requires version 1.2.1 but mod is not found on client.
+Grappling hook mod: Requires version 1.12.2-v12.3 but mod is not found on client.
+Ice and Fire: Requires version 1.7.1 but mod is not found on client.
+Infernal Mobs: Requires version 1.7.6 but mod is not found on client.
+Inspirations: Requires version 1.12.2-0.2.9 but mod is not found on client.
+Kiwi: Requires version 0.5.3.32 but mod is not found on client.
+LLibrary: Requires version 1.7.20 but mod is not found on client.
+Level Up! Reloaded: Requires version ${version} but mod is not found on client.
+LibrarianLib: Requires version 4.22 but mod is not found on client.
+LibrarianLib Stage 2: Requires version 4.22 but mod is not found on client.
+Locks: Requires version 3.0.0 but mod is not found on client.
+Lycanites Mobs: Requires version 2.0.8.9 - MC 1.12.2 but mod is not found on client.
+MTLib: Requires version 3.0.7 but mod is not found on client.
+Macaw's Bridges: Requires version 1.0.6 but mod is not found on client.
+Mantle: Requires version 1.12-1.3.3.55 but mod is not found on client.
+MaterialTweaker: Requires version 1.1.1 but mod is not found on client.
+MmmMmmMmmMmm: Requires version 1.12 but mod is not found on client.
+Mo' Bends: Requires version 1.2.1 but mod is not found on client.
+Mod Tweaker: Requires version 4.0.19 but mod is not found on client.
+Multi Mine: Requires version 1.6.2 but mod is not found on client.
+No Tree Punching: Requires version 2.0.21 but mod is not found on client.
+Pigstep: Requires version 1.12 but mod is not found on client.
+Potion Core: Requires version 1.9_for_1.12.2 but mod is not found on client.
+Potion Fingers: Requires version r1.0-8 but mod is not found on client.
+Quality Tools: Requires version 1.0.7_for_1.12.2 but mod is not found on client.
+RLArtifacts: Requires version 1.1.2 but mod is not found on client.
+RLCombat: Requires version 2.0.8 but mod is not found on client.
+RLMixins: Requires version 1.2.14 but mod is not found on client.
+Reach Fix: Requires version 1.0.8 but mod is not found on client.
+Realistic Torches: Requires version 2.1.2 but mod is not found on client.
+Reborn Core: Requires version 3.19.5 but mod is not found on client.
+Reskillable: Requires version 1.12.2-1.13.0 but mod is not found on client.
+Rin's So Many Enchantments?: Requires version 0.5.5 but mod is not found on client.
+Rough Tweaks: Requires version 1.0 but mod is not found on client.
+Rustic: Requires version 1.1.7 but mod is not found on client.
+Scaling Health: Requires version 1.3.37 but mod is not found on client.
+Scape and Run Parasites: Requires version 1.9.11 but mod is not found on client.
+Serene Seasons: Requires version 1.2.18 but mod is not found on client.
+Set Bonus: Requires version 1.12.2.020 but mod is not found on client.
+Silent Lib: Requires version 3.0.13 but mod is not found on client.
+SimpleDifficulty: Requires version 0.3.9 but mod is not found on client.
+Sit: Requires version v1.3 but mod is not found on client.
+Snow! Real Magic!: Requires version 0.7.1 but mod is not found on client.
+Spartan Defiled: Requires version 1.0 but mod is not found on client.
+Spartan Fire: RLCraft: Requires version 1.1.0 but mod is not found on client.
+Spartan Shields: Requires version 1.5.5 but mod is not found on client.
+Spartan Weaponry: Requires version 1.5.3 but mod is not found on client.
+Standard Expansion: Requires version 3.4.173 but mod is not found on client.
+Switch-Bow: Requires version 1.6.8 but mod is not found on client.
+Tool Belt: Requires version 1.9.14 but mod is not found on client.
+Traverse: Requires version 1.6.0 but mod is not found on client.
+Trinkets and Baubles: Requires version 0.32 but mod is not found on client.
+Trumpet Skeleton: Requires version 1.12-1.0.2.1 but mod is not found on client.
+TschippLib: Requires version 1.1.3 or above but mod is not found on client.
+Tumbleweed: Requires version 1.12-0.4.7 but mod is not found on client.
+Varied Commodities: Requires version 1.12.2 but mod is not found on client.
+Waystones: Requires version 4.1.0 but mod is not found on client.
+Wearable Backpacks RLCraft Edition: Requires version 3.2.6 but mod is not found on client.
+Wolf Armor and Storage: Requires version 3.8.1+alpha.1 but mod is not found on client.
+XP Tome: Requires version v1.1.6 but mod is not found on client.
+iChunUtil: Requires version 7.2.0 or above, and below 7.3.0 but mod is not found on client.
+playerbosses: Requires version 1.0 but mod is not found on client.
+[03:27:57] [Netty Epoll Server IO #4/ERROR] [FML]: Network Disconnect: Server Mod rejections:
+Advanced Fishing: Requires version 1.3.3 but mod is not found on client.
+Advanced Hook Launchers: Requires version 1.12.2-3.3.1.0 but mod is not found on client.
+AlcatrazCore: Requires version 1.0.4 but mod is not found on client.
+Antique Atlas: Requires version 4.6.3 but mod is not found on client.
+Antique Cities: Requires version 1.0 but mod is not found on client.
+Anvil Patch - Lawful: Requires version 1.1.1 but mod is not found on client.
+Aquaculture: Requires version 1.6.8 but mod is not found on client.
+Armor Underwear: Requires version 1.0.0 but mod is not found on client.
+AstikorCarts: Requires version 1.12.2-0.1.2.8 but mod is not found on client.
+Attribute Fix: Requires version 1.0.12 but mod is not found on client.
+AutoRegLib: Requires version 1.3-32 but mod is not found on client.
+B.A.S.E: Requires version 3.14.0 but mod is not found on client.
+BQ Multiblock and Structure Expansion: Requires version 1.0.9 but mod is not found on client.
+BQTweaker: Requires version 1.3.5 but mod is not found on client.
+Battle Towers: Requires version 1.6.5 but mod is not found on client.
+Baubles: Requires version 1.5.2 but mod is not found on client.
+Better Nether: Requires version 0.1.8.6 but mod is not found on client.
+Better Questing: Requires version 3.5.329 but mod is not found on client.
+Better Survival: Requires version 1.5.3 but mod is not found on client.
+BetterTabs: Requires version 1.0.4 but mod is not found on client.
+Bloodmoon: Requires version 1.5.3 but mod is not found on client.
+Bountiful: Requires version 2.2.3 but mod is not found on client.
+Bountiful Baubles: Requires version 0.0.1 but mod is not found on client.
+Callable Horses: Requires version 1.1.1 but mod is not found on client.
+Carrots Lib: Requires version 1.0.0b1 but mod is not found on client.
+Carry On: Requires version 1.12.3 but mod is not found on client.
+Champions: Requires version 1.12.2-1.0.11.10 but mod is not found on client.
+Charm: Requires version 1.4 but mod is not found on client.
+Classy Hats: Requires version %VERSION% but mod is not found on client.
+CollisionDamage: Requires version 1.2.2 but mod is not found on client.
+Comforts: Requires version 1.4.1.3 but mod is not found on client.
+CompatSkills: Requires version 1.12.2-1.17.0 but mod is not found on client.
+ContentTweaker: Requires version 1.12.2-4.10.0 but mod is not found on client.
+Coralreef: Requires version 2.0 but mod is not found on client.
+Corpse Complex: Requires version 1.0.12.0 but mod is not found on client.
+CraftTweaker JEI Support: Requires version 2.0.3 but mod is not found on client.
+CraftTweaker2: Requires version 4.1.20 but mod is not found on client.
+Craftable Chainmail: Requires version 1.0 but mod is not found on client.
+CreativeCore: Requires version 1.10.0 but mod is not found on client.
+Defiled Lands: Requires version 1.4.3 but mod is not found on client.
+Disenchanter: Requires version 1.8 but mod is not found on client.
+Dynamic Trees: Requires version 1.12.2-0.9.29 but mod is not found on client.
+Dynamic Trees for Defiled Lands: Requires version 1.12.2-1.0.0 but mod is not found on client.
+Dynamic Trees for Traverse: Requires version 1.12.2-2.1 but mod is not found on client.
+Elenai Dodge: Requires version 2.1 but mod is not found on client.
+Enhanced Visuals: Requires version 1.3.0 but mod is not found on client.
+Familiar Fauna: Requires version 1.0.11 but mod is not found on client.
+First Aid: Requires version 1.6.22 but mod is not found on client.
+Fishing Made Better: Requires version 2.2.6 but mod is not found on client.
+Food Expansion: Requires version 1.3 but mod is not found on client.
+Forge Endertech: Requires version 1.12.2-4.5.6.1 but mod is not found on client.
+Forgotten Items: Requires version 1.2.1 but mod is not found on client.
+Grappling hook mod: Requires version 1.12.2-v12.3 but mod is not found on client.
+Ice and Fire: Requires version 1.7.1 but mod is not found on client.
+Infernal Mobs: Requires version 1.7.6 but mod is not found on client.
+Inspirations: Requires version 1.12.2-0.2.9 but mod is not found on client.
+Kiwi: Requires version 0.5.3.32 but mod is not found on client.
+LLibrary: Requires version 1.7.20 but mod is not found on client.
+Level Up! Reloaded: Requires version ${version} but mod is not found on client.
+LibrarianLib: Requires version 4.22 but mod is not found on client.
+LibrarianLib Stage 2: Requires version 4.22 but mod is not found on client.
+Locks: Requires version 3.0.0 but mod is not found on client.
+Lycanites Mobs: Requires version 2.0.8.9 - MC 1.12.2 but mod is not found on client.
+MTLib: Requires version 3.0.7 but mod is not found on client.
+Macaw's Bridges: Requires version 1.0.6 but mod is not found on client.
+Mantle: Requires version 1.12-1.3.3.55 but mod is not found on client.
+MaterialTweaker: Requires version 1.1.1 but mod is not found on client.
+MmmMmmMmmMmm: Requires version 1.12 but mod is not found on client.
+Mo' Bends: Requires version 1.2.1 but mod is not found on client.
+Mod Tweaker: Requires version 4.0.19 but mod is not found on client.
+Multi Mine: Requires version 1.6.2 but mod is not found on client.
+No Tree Punching: Requires version 2.0.21 but mod is not found on client.
+Pigstep: Requires version 1.12 but mod is not found on client.
+Potion Core: Requires version 1.9_for_1.12.2 but mod is not found on client.
+Potion Fingers: Requires version r1.0-8 but mod is not found on client.
+Quality Tools: Requires version 1.0.7_for_1.12.2 but mod is not found on client.
+RLArtifacts: Requires version 1.1.2 but mod is not found on client.
+RLCombat: Requires version 2.0.8 but mod is not found on client.
+RLMixins: Requires version 1.2.14 but mod is not found on client.
+Reach Fix: Requires version 1.0.8 but mod is not found on client.
+Realistic Torches: Requires version 2.1.2 but mod is not found on client.
+Reborn Core: Requires version 3.19.5 but mod is not found on client.
+Reskillable: Requires version 1.12.2-1.13.0 but mod is not found on client.
+Rin's So Many Enchantments?: Requires version 0.5.5 but mod is not found on client.
+Rough Tweaks: Requires version 1.0 but mod is not found on client.
+Rustic: Requires version 1.1.7 but mod is not found on client.
+Scaling Health: Requires version 1.3.37 but mod is not found on client.
+Scape and Run Parasites: Requires version 1.9.11 but mod is not found on client.
+Serene Seasons: Requires version 1.2.18 but mod is not found on client.
+Set Bonus: Requires version 1.12.2.020 but mod is not found on client.
+Silent Lib: Requires version 3.0.13 but mod is not found on client.
+SimpleDifficulty: Requires version 0.3.9 but mod is not found on client.
+Sit: Requires version v1.3 but mod is not found on client.
+Snow! Real Magic!: Requires version 0.7.1 but mod is not found on client.
+Spartan Defiled: Requires version 1.0 but mod is not found on client.
+Spartan Fire: RLCraft: Requires version 1.1.0 but mod is not found on client.
+Spartan Shields: Requires version 1.5.5 but mod is not found on client.
+Spartan Weaponry: Requires version 1.5.3 but mod is not found on client.
+Standard Expansion: Requires version 3.4.173 but mod is not found on client.
+Switch-Bow: Requires version 1.6.8 but mod is not found on client.
+Tool Belt: Requires version 1.9.14 but mod is not found on client.
+Traverse: Requires version 1.6.0 but mod is not found on client.
+Trinkets and Baubles: Requires version 0.32 but mod is not found on client.
+Trumpet Skeleton: Requires version 1.12-1.0.2.1 but mod is not found on client.
+TschippLib: Requires version 1.1.3 or above but mod is not found on client.
+Tumbleweed: Requires version 1.12-0.4.7 but mod is not found on client.
+Varied Commodities: Requires version 1.12.2 but mod is not found on client.
+Waystones: Requires version 4.1.0 but mod is not found on client.
+Wearable Backpacks RLCraft Edition: Requires version 3.2.6 but mod is not found on client.
+Wolf Armor and Storage: Requires version 3.8.1+alpha.1 but mod is not found on client.
+XP Tome: Requires version v1.1.6 but mod is not found on client.
+iChunUtil: Requires version 7.2.0 or above, and below 7.3.0 but mod is not found on client.
+playerbosses: Requires version 1.0 but mod is not found on client.
+[03:27:57] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Aoshix_men lost connection: Server Mod rejections:
+Advanced Fishing: Requires version 1.3.3 but mod is not found on client.
+Advanced Hook Launchers: Requires version 1.12.2-3.3.1.0 but mod is not found on client.
+AlcatrazCore: Requires version 1.0.4 but mod is not found on client.
+Antique Atlas: Requires version 4.6.3 but mod is not found on client.
+Antique Cities: Requires version 1.0 but mod is not found on client.
+Anvil Patch - Lawful: Requires version 1.1.1 but mod is not found on client.
+Aquaculture: Requires version 1.6.8 but mod is not found on client.
+Armor Underwear: Requires version 1.0.0 but mod is not found on client.
+AstikorCarts: Requires version 1.12.2-0.1.2.8 but mod is not found on client.
+Attribute Fix: Requires version 1.0.12 but mod is not found on client.
+AutoRegLib: Requires version 1.3-32 but mod is not found on client.
+B.A.S.E: Requires version 3.14.0 but mod is not found on client.
+BQ Multiblock and Structure Expansion: Requires version 1.0.9 but mod is not found on client.
+BQTweaker: Requires version 1.3.5 but mod is not found on client.
+Battle Towers: Requires version 1.6.5 but mod is not found on client.
+Baubles: Requires version 1.5.2 but mod is not found on client.
+Better Nether: Requires version 0.1.8.6 but mod is not found on client.
+Better Questing: Requires version 3.5.329 but mod is not found on client.
+Better Survival: Requires version 1.5.3 but mod is not found on client.
+BetterTabs: Requires version 1.0.4 but mod is not found on client.
+Bloodmoon: Requires version 1.5.3 but mod is not found on client.
+Bountiful: Requires version 2.2.3 but mod is not found on client.
+Bountiful Baubles: Requires version 0.0.1 but mod is not found on client.
+Callable Horses: Requires version 1.1.1 but mod is not found on client.
+Carrots Lib: Requires version 1.0.0b1 but mod is not found on client.
+Carry On: Requires version 1.12.3 but mod is not found on client.
+Champions: Requires version 1.12.2-1.0.11.10 but mod is not found on client.
+Charm: Requires version 1.4 but mod is not found on client.
+Classy Hats: Requires version %VERSION% but mod is not found on client.
+CollisionDamage: Requires version 1.2.2 but mod is not found on client.
+Comforts: Requires version 1.4.1.3 but mod is not found on client.
+CompatSkills: Requires version 1.12.2-1.17.0 but mod is not found on client.
+ContentTweaker: Requires version 1.12.2-4.10.0 but mod is not found on client.
+Coralreef: Requires version 2.0 but mod is not found on client.
+Corpse Complex: Requires version 1.0.12.0 but mod is not found on client.
+CraftTweaker JEI Support: Requires version 2.0.3 but mod is not found on client.
+CraftTweaker2: Requires version 4.1.20 but mod is not found on client.
+Craftable Chainmail: Requires version 1.0 but mod is not found on client.
+CreativeCore: Requires version 1.10.0 but mod is not found on client.
+Defiled Lands: Requires version 1.4.3 but mod is not found on client.
+Disenchanter: Requires version 1.8 but mod is not found on client.
+Dynamic Trees: Requires version 1.12.2-0.9.29 but mod is not found on client.
+Dynamic Trees for Defiled Lands: Requires version 1.12.2-1.0.0 but mod is not found on client.
+Dynamic Trees for Traverse: Requires version 1.12.2-2.1 but mod is not found on client.
+Elenai Dodge: Requires version 2.1 but mod is not found on client.
+Enhanced Visuals: Requires version 1.3.0 but mod is not found on client.
+Familiar Fauna: Requires version 1.0.11 but mod is not found on client.
+First Aid: Requires version 1.6.22 but mod is not found on client.
+Fishing Made Better: Requires version 2.2.6 but mod is not found on client.
+Food Expansion: Requires version 1.3 but mod is not found on client.
+Forge Endertech: Requires version 1.12.2-4.5.6.1 but mod is not found on client.
+Forgotten Items: Requires version 1.2.1 but mod is not found on client.
+Grappling hook mod: Requires version 1.12.2-v12.3 but mod is not found on client.
+Ice and Fire: Requires version 1.7.1 but mod is not found on client.
+Infernal Mobs: Requires version 1.7.6 but mod is not found on client.
+Inspirations: Requires version 1.12.2-0.2.9 but mod is not found on client.
+Kiwi: Requires version 0.5.3.32 but mod is not found on client.
+LLibrary: Requires version 1.7.20 but mod is not found on client.
+Level Up! Reloaded: Requires version ${version} but mod is not found on client.
+LibrarianLib: Requires version 4.22 but mod is not found on client.
+LibrarianLib Stage 2: Requires version 4.22 but mod is not found on client.
+Locks: Requires version 3.0.0 but mod is not found on client.
+Lycanites Mobs: Requires version 2.0.8.9 - MC 1.12.2 but mod is not found on client.
+MTLib: Requires version 3.0.7 but mod is not found on client.
+Macaw's Bridges: Requires version 1.0.6 but mod is not found on client.
+Mantle: Requires version 1.12-1.3.3.55 but mod is not found on client.
+MaterialTweaker: Requires version 1.1.1 but mod is not found on client.
+MmmMmmMmmMmm: Requires version 1.12 but mod is not found on client.
+Mo' Bends: Requires version 1.2.1 but mod is not found on client.
+Mod Tweaker: Requires version 4.0.19 but mod is not found on client.
+Multi Mine: Requires version 1.6.2 but mod is not found on client.
+No Tree Punching: Requires version 2.0.21 but mod is not found on client.
+Pigstep: Requires version 1.12 but mod is not found on client.
+Potion Core: Requires version 1.9_for_1.12.2 but mod is not found on client.
+Potion Fingers: Requires version r1.0-8 but mod is not found on client.
+Quality Tools: Requires version 1.0.7_for_1.12.2 but mod is not found on client.
+RLArtifacts: Requires version 1.1.2 but mod is not found on client.
+RLCombat: Requires version 2.0.8 but mod is not found on client.
+RLMixins: Requires version 1.2.14 but mod is not found on client.
+Reach Fix: Requires version 1.0.8 but mod is not found on client.
+Realistic Torches: Requires version 2.1.2 but mod is not found on client.
+Reborn Core: Requires version 3.19.5 but mod is not found on client.
+Reskillable: Requires version 1.12.2-1.13.0 but mod is not found on client.
+Rin's So Many Enchantments?: Requires version 0.5.5 but mod is not found on client.
+Rough Tweaks: Requires version 1.0 but mod is not found on client.
+Rustic: Requires version 1.1.7 but mod is not found on client.
+Scaling Health: Requires version 1.3.37 but mod is not found on client.
+Scape and Run Parasites: Requires version 1.9.11 but mod is not found on client.
+Serene Seasons: Requires version 1.2.18 but mod is not found on client.
+Set Bonus: Requires version 1.12.2.020 but mod is not found on client.
+Silent Lib: Requires version 3.0.13 but mod is not found on client.
+SimpleDifficulty: Requires version 0.3.9 but mod is not found on client.
+Sit: Requires version v1.3 but mod is not found on client.
+Snow! Real Magic!: Requires version 0.7.1 but mod is not found on client.
+Spartan Defiled: Requires version 1.0 but mod is not found on client.
+Spartan Fire: RLCraft: Requires version 1.1.0 but mod is not found on client.
+Spartan Shields: Requires version 1.5.5 but mod is not found on client.
+Spartan Weaponry: Requires version 1.5.3 but mod is not found on client.
+Standard Expansion: Requires version 3.4.173 but mod is not found on client.
+Switch-Bow: Requires version 1.6.8 but mod is not found on client.
+Tool Belt: Requires version 1.9.14 but mod is not found on client.
+Traverse: Requires version 1.6.0 but mod is not found on client.
+Trinkets and Baubles: Requires version 0.32 but mod is not found on client.
+Trumpet Skeleton: Requires version 1.12-1.0.2.1 but mod is not found on client.
+TschippLib: Requires version 1.1.3 or above but mod is not found on client.
+Tumbleweed: Requires version 1.12-0.4.7 but mod is not found on client.
+Varied Commodities: Requires version 1.12.2 but mod is not found on client.
+Waystones: Requires version 4.1.0 but mod is not found on client.
+Wearable Backpacks RLCraft Edition: Requires version 3.2.6 but mod is not found on client.
+Wolf Armor and Storage: Requires version 3.8.1+alpha.1 but mod is not found on client.
+XP Tome: Requires version v1.1.6 but mod is not found on client.
+iChunUtil: Requires version 7.2.0 or above, and below 7.3.0 but mod is not found on client.
+playerbosses: Requires version 1.0 but mod is not found on client.
+[03:27:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Aoshix_men left the game
+[03:29:16] [Netty Epoll Server IO #5/INFO] [FML]: Client protocol version 2
+[03:29:16] [Netty Epoll Server IO #5/INFO] [FML]: Client attempting to join with 5 mods : minecraft@1.12.2,tlauncher_custom_cape_skin@1.4,FML@8.0.99.99,forge@14.23.5.2860,mcp@9.42
+[03:29:16] [Netty Epoll Server IO #5/INFO] [FML]: Attempting connection with missing mods [creativecoredummy, itemphysic, ivtoolkit, foamfixcore, tnt_utilities_core, adhooks, advanced-fishing, aireducer, alcatrazcore, antiqueatlas, antiquecities, anvilpatch, aquaculture, armorunder, astikorcarts, attributefix, autoreglib, base, battletowers, baubles, bedbreakbegone, mujmajnkraftsbettersurvival, bettercaves, bettermineshafts, betternether, betterquesting, bettertabs, bloodmoon, bnbgaminglib, bountifulbaubles, bountiful, bq_msi, bqtweaker, callablehorses, carrots, carryon, champions, charm, classyhats, collisiondamage, comforts, compatskills, contenttweaker, coralreef, corpsecomplex, craftablechainmail, crafttweaker, crafttweakerjei, creativecore, defiledlands, disenchanter, dldungeonsjbg, dsurround, dynamictrees, dynamictreesdefiledlands, dttraverse, elenaidodge, enhancedvisuals, familiarfauna, fantasticlib, firstaid, fishingmadebetter, foamfix, foodexpansion, forgeendertech, forgelin, forgottenitems, framevoidpatch, friendlyendermite, fxcontrol, globalgamerules, grapplemod, helpfixer, iceandfire, ichunutil, incontrol, infernalmobs, inspirations, inventorytweaks, iseedragons, itlt, jei, levelup2, librarianliblate, librarianlib, locks, loottweaker, lostcities, lycanitesmobs, mantle, materialtweaker, mcwbridges, testdummy, mobends, modtweaker, mtlib, multimine, notreepunching, pigstep, placebo, playerbosses, portaldupebegone, potioncore, potionfingers, qualitytools, quark, reachfix, realistictorches, reborncore, reccomplex, reskillable, artifacts, bettercombatmod, rlmixins, rltweaker, roguelike, roughtweaks, ruins, rustic, scalinghealth, sereneseasons, setbonus, shieldbreak, silentlib, simpledifficulty, sit, snowrealmagic, somanyenchantments, spark, spartandefiled, spartanfire, spartanshields, spartanweaponry, spawnercontrol, srparasites, bq_standard, surge, switchbow, tnt_utilities, toolbelt, traverse, xat, trumpetskeleton, tschipplib, tumbleweed, variedcommodities, waystones, wearablebackpacks, wolfarmor, xpfromharvest, xpbook, yungslaw, phosphor-lighting, rtg, llibrary, orelib, kiwi] at CLIENT
+[03:29:16] [Netty Epoll Server IO #5/INFO] [LootTweaker]: Accepted non-existent client LootTweaker install
+[03:29:16] [Netty Epoll Server IO #5/INFO] [FML]: Rejecting connection CLIENT: Advanced Fishing: Requires version 1.3.3 but mod is not found on client.
+Advanced Hook Launchers: Requires version 1.12.2-3.3.1.0 but mod is not found on client.
+AlcatrazCore: Requires version 1.0.4 but mod is not found on client.
+Antique Atlas: Requires version 4.6.3 but mod is not found on client.
+Antique Cities: Requires version 1.0 but mod is not found on client.
+Anvil Patch - Lawful: Requires version 1.1.1 but mod is not found on client.
+Aquaculture: Requires version 1.6.8 but mod is not found on client.
+Armor Underwear: Requires version 1.0.0 but mod is not found on client.
+AstikorCarts: Requires version 1.12.2-0.1.2.8 but mod is not found on client.
+Attribute Fix: Requires version 1.0.12 but mod is not found on client.
+AutoRegLib: Requires version 1.3-32 but mod is not found on client.
+B.A.S.E: Requires version 3.14.0 but mod is not found on client.
+BQ Multiblock and Structure Expansion: Requires version 1.0.9 but mod is not found on client.
+BQTweaker: Requires version 1.3.5 but mod is not found on client.
+Battle Towers: Requires version 1.6.5 but mod is not found on client.
+Baubles: Requires version 1.5.2 but mod is not found on client.
+Better Nether: Requires version 0.1.8.6 but mod is not found on client.
+Better Questing: Requires version 3.5.329 but mod is not found on client.
+Better Survival: Requires version 1.5.3 but mod is not found on client.
+BetterTabs: Requires version 1.0.4 but mod is not found on client.
+Bloodmoon: Requires version 1.5.3 but mod is not found on client.
+Bountiful: Requires version 2.2.3 but mod is not found on client.
+Bountiful Baubles: Requires version 0.0.1 but mod is not found on client.
+Callable Horses: Requires version 1.1.1 but mod is not found on client.
+Carrots Lib: Requires version 1.0.0b1 but mod is not found on client.
+Carry On: Requires version 1.12.3 but mod is not found on client.
+Champions: Requires version 1.12.2-1.0.11.10 but mod is not found on client.
+Charm: Requires version 1.4 but mod is not found on client.
+Classy Hats: Requires version %VERSION% but mod is not found on client.
+CollisionDamage: Requires version 1.2.2 but mod is not found on client.
+Comforts: Requires version 1.4.1.3 but mod is not found on client.
+CompatSkills: Requires version 1.12.2-1.17.0 but mod is not found on client.
+ContentTweaker: Requires version 1.12.2-4.10.0 but mod is not found on client.
+Coralreef: Requires version 2.0 but mod is not found on client.
+Corpse Complex: Requires version 1.0.12.0 but mod is not found on client.
+CraftTweaker JEI Support: Requires version 2.0.3 but mod is not found on client.
+CraftTweaker2: Requires version 4.1.20 but mod is not found on client.
+Craftable Chainmail: Requires version 1.0 but mod is not found on client.
+CreativeCore: Requires version 1.10.0 but mod is not found on client.
+Defiled Lands: Requires version 1.4.3 but mod is not found on client.
+Disenchanter: Requires version 1.8 but mod is not found on client.
+Dynamic Trees: Requires version 1.12.2-0.9.29 but mod is not found on client.
+Dynamic Trees for Defiled Lands: Requires version 1.12.2-1.0.0 but mod is not found on client.
+Dynamic Trees for Traverse: Requires version 1.12.2-2.1 but mod is not found on client.
+Elenai Dodge: Requires version 2.1 but mod is not found on client.
+Enhanced Visuals: Requires version 1.3.0 but mod is not found on client.
+Familiar Fauna: Requires version 1.0.11 but mod is not found on client.
+First Aid: Requires version 1.6.22 but mod is not found on client.
+Fishing Made Better: Requires version 2.2.6 but mod is not found on client.
+Food Expansion: Requires version 1.3 but mod is not found on client.
+Forge Endertech: Requires version 1.12.2-4.5.6.1 but mod is not found on client.
+Forgotten Items: Requires version 1.2.1 but mod is not found on client.
+Grappling hook mod: Requires version 1.12.2-v12.3 but mod is not found on client.
+Ice and Fire: Requires version 1.7.1 but mod is not found on client.
+Infernal Mobs: Requires version 1.7.6 but mod is not found on client.
+Inspirations: Requires version 1.12.2-0.2.9 but mod is not found on client.
+Kiwi: Requires version 0.5.3.32 but mod is not found on client.
+LLibrary: Requires version 1.7.20 but mod is not found on client.
+Level Up! Reloaded: Requires version ${version} but mod is not found on client.
+LibrarianLib: Requires version 4.22 but mod is not found on client.
+LibrarianLib Stage 2: Requires version 4.22 but mod is not found on client.
+Locks: Requires version 3.0.0 but mod is not found on client.
+Lycanites Mobs: Requires version 2.0.8.9 - MC 1.12.2 but mod is not found on client.
+MTLib: Requires version 3.0.7 but mod is not found on client.
+Macaw's Bridges: Requires version 1.0.6 but mod is not found on client.
+Mantle: Requires version 1.12-1.3.3.55 but mod is not found on client.
+MaterialTweaker: Requires version 1.1.1 but mod is not found on client.
+MmmMmmMmmMmm: Requires version 1.12 but mod is not found on client.
+Mo' Bends: Requires version 1.2.1 but mod is not found on client.
+Mod Tweaker: Requires version 4.0.19 but mod is not found on client.
+Multi Mine: Requires version 1.6.2 but mod is not found on client.
+No Tree Punching: Requires version 2.0.21 but mod is not found on client.
+Pigstep: Requires version 1.12 but mod is not found on client.
+Potion Core: Requires version 1.9_for_1.12.2 but mod is not found on client.
+Potion Fingers: Requires version r1.0-8 but mod is not found on client.
+Quality Tools: Requires version 1.0.7_for_1.12.2 but mod is not found on client.
+RLArtifacts: Requires version 1.1.2 but mod is not found on client.
+RLCombat: Requires version 2.0.8 but mod is not found on client.
+RLMixins: Requires version 1.2.14 but mod is not found on client.
+Reach Fix: Requires version 1.0.8 but mod is not found on client.
+Realistic Torches: Requires version 2.1.2 but mod is not found on client.
+Reborn Core: Requires version 3.19.5 but mod is not found on client.
+Reskillable: Requires version 1.12.2-1.13.0 but mod is not found on client.
+Rin's So Many Enchantments?: Requires version 0.5.5 but mod is not found on client.
+Rough Tweaks: Requires version 1.0 but mod is not found on client.
+Rustic: Requires version 1.1.7 but mod is not found on client.
+Scaling Health: Requires version 1.3.37 but mod is not found on client.
+Scape and Run Parasites: Requires version 1.9.11 but mod is not found on client.
+Serene Seasons: Requires version 1.2.18 but mod is not found on client.
+Set Bonus: Requires version 1.12.2.020 but mod is not found on client.
+Silent Lib: Requires version 3.0.13 but mod is not found on client.
+SimpleDifficulty: Requires version 0.3.9 but mod is not found on client.
+Sit: Requires version v1.3 but mod is not found on client.
+Snow! Real Magic!: Requires version 0.7.1 but mod is not found on client.
+Spartan Defiled: Requires version 1.0 but mod is not found on client.
+Spartan Fire: RLCraft: Requires version 1.1.0 but mod is not found on client.
+Spartan Shields: Requires version 1.5.5 but mod is not found on client.
+Spartan Weaponry: Requires version 1.5.3 but mod is not found on client.
+Standard Expansion: Requires version 3.4.173 but mod is not found on client.
+Switch-Bow: Requires version 1.6.8 but mod is not found on client.
+Tool Belt: Requires version 1.9.14 but mod is not found on client.
+Traverse: Requires version 1.6.0 but mod is not found on client.
+Trinkets and Baubles: Requires version 0.32 but mod is not found on client.
+Trumpet Skeleton: Requires version 1.12-1.0.2.1 but mod is not found on client.
+TschippLib: Requires version 1.1.3 or above but mod is not found on client.
+Tumbleweed: Requires version 1.12-0.4.7 but mod is not found on client.
+Varied Commodities: Requires version 1.12.2 but mod is not found on client.
+Waystones: Requires version 4.1.0 but mod is not found on client.
+Wearable Backpacks RLCraft Edition: Requires version 3.2.6 but mod is not found on client.
+Wolf Armor and Storage: Requires version 3.8.1+alpha.1 but mod is not found on client.
+XP Tome: Requires version v1.1.6 but mod is not found on client.
+iChunUtil: Requires version 7.2.0 or above, and below 7.3.0 but mod is not found on client.
+playerbosses: Requires version 1.0 but mod is not found on client.
+[03:29:16] [Netty Epoll Server IO #5/ERROR] [FML]: Network Disconnect: Server Mod rejections:
+Advanced Fishing: Requires version 1.3.3 but mod is not found on client.
+Advanced Hook Launchers: Requires version 1.12.2-3.3.1.0 but mod is not found on client.
+AlcatrazCore: Requires version 1.0.4 but mod is not found on client.
+Antique Atlas: Requires version 4.6.3 but mod is not found on client.
+Antique Cities: Requires version 1.0 but mod is not found on client.
+Anvil Patch - Lawful: Requires version 1.1.1 but mod is not found on client.
+Aquaculture: Requires version 1.6.8 but mod is not found on client.
+Armor Underwear: Requires version 1.0.0 but mod is not found on client.
+AstikorCarts: Requires version 1.12.2-0.1.2.8 but mod is not found on client.
+Attribute Fix: Requires version 1.0.12 but mod is not found on client.
+AutoRegLib: Requires version 1.3-32 but mod is not found on client.
+B.A.S.E: Requires version 3.14.0 but mod is not found on client.
+BQ Multiblock and Structure Expansion: Requires version 1.0.9 but mod is not found on client.
+BQTweaker: Requires version 1.3.5 but mod is not found on client.
+Battle Towers: Requires version 1.6.5 but mod is not found on client.
+Baubles: Requires version 1.5.2 but mod is not found on client.
+Better Nether: Requires version 0.1.8.6 but mod is not found on client.
+Better Questing: Requires version 3.5.329 but mod is not found on client.
+Better Survival: Requires version 1.5.3 but mod is not found on client.
+BetterTabs: Requires version 1.0.4 but mod is not found on client.
+Bloodmoon: Requires version 1.5.3 but mod is not found on client.
+Bountiful: Requires version 2.2.3 but mod is not found on client.
+Bountiful Baubles: Requires version 0.0.1 but mod is not found on client.
+Callable Horses: Requires version 1.1.1 but mod is not found on client.
+Carrots Lib: Requires version 1.0.0b1 but mod is not found on client.
+Carry On: Requires version 1.12.3 but mod is not found on client.
+Champions: Requires version 1.12.2-1.0.11.10 but mod is not found on client.
+Charm: Requires version 1.4 but mod is not found on client.
+Classy Hats: Requires version %VERSION% but mod is not found on client.
+CollisionDamage: Requires version 1.2.2 but mod is not found on client.
+Comforts: Requires version 1.4.1.3 but mod is not found on client.
+CompatSkills: Requires version 1.12.2-1.17.0 but mod is not found on client.
+ContentTweaker: Requires version 1.12.2-4.10.0 but mod is not found on client.
+Coralreef: Requires version 2.0 but mod is not found on client.
+Corpse Complex: Requires version 1.0.12.0 but mod is not found on client.
+CraftTweaker JEI Support: Requires version 2.0.3 but mod is not found on client.
+CraftTweaker2: Requires version 4.1.20 but mod is not found on client.
+Craftable Chainmail: Requires version 1.0 but mod is not found on client.
+CreativeCore: Requires version 1.10.0 but mod is not found on client.
+Defiled Lands: Requires version 1.4.3 but mod is not found on client.
+Disenchanter: Requires version 1.8 but mod is not found on client.
+Dynamic Trees: Requires version 1.12.2-0.9.29 but mod is not found on client.
+Dynamic Trees for Defiled Lands: Requires version 1.12.2-1.0.0 but mod is not found on client.
+Dynamic Trees for Traverse: Requires version 1.12.2-2.1 but mod is not found on client.
+Elenai Dodge: Requires version 2.1 but mod is not found on client.
+Enhanced Visuals: Requires version 1.3.0 but mod is not found on client.
+Familiar Fauna: Requires version 1.0.11 but mod is not found on client.
+First Aid: Requires version 1.6.22 but mod is not found on client.
+Fishing Made Better: Requires version 2.2.6 but mod is not found on client.
+Food Expansion: Requires version 1.3 but mod is not found on client.
+Forge Endertech: Requires version 1.12.2-4.5.6.1 but mod is not found on client.
+Forgotten Items: Requires version 1.2.1 but mod is not found on client.
+Grappling hook mod: Requires version 1.12.2-v12.3 but mod is not found on client.
+Ice and Fire: Requires version 1.7.1 but mod is not found on client.
+Infernal Mobs: Requires version 1.7.6 but mod is not found on client.
+Inspirations: Requires version 1.12.2-0.2.9 but mod is not found on client.
+Kiwi: Requires version 0.5.3.32 but mod is not found on client.
+LLibrary: Requires version 1.7.20 but mod is not found on client.
+Level Up! Reloaded: Requires version ${version} but mod is not found on client.
+LibrarianLib: Requires version 4.22 but mod is not found on client.
+LibrarianLib Stage 2: Requires version 4.22 but mod is not found on client.
+Locks: Requires version 3.0.0 but mod is not found on client.
+Lycanites Mobs: Requires version 2.0.8.9 - MC 1.12.2 but mod is not found on client.
+MTLib: Requires version 3.0.7 but mod is not found on client.
+Macaw's Bridges: Requires version 1.0.6 but mod is not found on client.
+Mantle: Requires version 1.12-1.3.3.55 but mod is not found on client.
+MaterialTweaker: Requires version 1.1.1 but mod is not found on client.
+MmmMmmMmmMmm: Requires version 1.12 but mod is not found on client.
+Mo' Bends: Requires version 1.2.1 but mod is not found on client.
+Mod Tweaker: Requires version 4.0.19 but mod is not found on client.
+Multi Mine: Requires version 1.6.2 but mod is not found on client.
+No Tree Punching: Requires version 2.0.21 but mod is not found on client.
+Pigstep: Requires version 1.12 but mod is not found on client.
+Potion Core: Requires version 1.9_for_1.12.2 but mod is not found on client.
+Potion Fingers: Requires version r1.0-8 but mod is not found on client.
+Quality Tools: Requires version 1.0.7_for_1.12.2 but mod is not found on client.
+RLArtifacts: Requires version 1.1.2 but mod is not found on client.
+RLCombat: Requires version 2.0.8 but mod is not found on client.
+RLMixins: Requires version 1.2.14 but mod is not found on client.
+Reach Fix: Requires version 1.0.8 but mod is not found on client.
+Realistic Torches: Requires version 2.1.2 but mod is not found on client.
+Reborn Core: Requires version 3.19.5 but mod is not found on client.
+Reskillable: Requires version 1.12.2-1.13.0 but mod is not found on client.
+Rin's So Many Enchantments?: Requires version 0.5.5 but mod is not found on client.
+Rough Tweaks: Requires version 1.0 but mod is not found on client.
+Rustic: Requires version 1.1.7 but mod is not found on client.
+Scaling Health: Requires version 1.3.37 but mod is not found on client.
+Scape and Run Parasites: Requires version 1.9.11 but mod is not found on client.
+Serene Seasons: Requires version 1.2.18 but mod is not found on client.
+Set Bonus: Requires version 1.12.2.020 but mod is not found on client.
+Silent Lib: Requires version 3.0.13 but mod is not found on client.
+SimpleDifficulty: Requires version 0.3.9 but mod is not found on client.
+Sit: Requires version v1.3 but mod is not found on client.
+Snow! Real Magic!: Requires version 0.7.1 but mod is not found on client.
+Spartan Defiled: Requires version 1.0 but mod is not found on client.
+Spartan Fire: RLCraft: Requires version 1.1.0 but mod is not found on client.
+Spartan Shields: Requires version 1.5.5 but mod is not found on client.
+Spartan Weaponry: Requires version 1.5.3 but mod is not found on client.
+Standard Expansion: Requires version 3.4.173 but mod is not found on client.
+Switch-Bow: Requires version 1.6.8 but mod is not found on client.
+Tool Belt: Requires version 1.9.14 but mod is not found on client.
+Traverse: Requires version 1.6.0 but mod is not found on client.
+Trinkets and Baubles: Requires version 0.32 but mod is not found on client.
+Trumpet Skeleton: Requires version 1.12-1.0.2.1 but mod is not found on client.
+TschippLib: Requires version 1.1.3 or above but mod is not found on client.
+Tumbleweed: Requires version 1.12-0.4.7 but mod is not found on client.
+Varied Commodities: Requires version 1.12.2 but mod is not found on client.
+Waystones: Requires version 4.1.0 but mod is not found on client.
+Wearable Backpacks RLCraft Edition: Requires version 3.2.6 but mod is not found on client.
+Wolf Armor and Storage: Requires version 3.8.1+alpha.1 but mod is not found on client.
+XP Tome: Requires version v1.1.6 but mod is not found on client.
+iChunUtil: Requires version 7.2.0 or above, and below 7.3.0 but mod is not found on client.
+playerbosses: Requires version 1.0 but mod is not found on client.
+[03:29:16] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Aoshix_men lost connection: Server Mod rejections:
+Advanced Fishing: Requires version 1.3.3 but mod is not found on client.
+Advanced Hook Launchers: Requires version 1.12.2-3.3.1.0 but mod is not found on client.
+AlcatrazCore: Requires version 1.0.4 but mod is not found on client.
+Antique Atlas: Requires version 4.6.3 but mod is not found on client.
+Antique Cities: Requires version 1.0 but mod is not found on client.
+Anvil Patch - Lawful: Requires version 1.1.1 but mod is not found on client.
+Aquaculture: Requires version 1.6.8 but mod is not found on client.
+Armor Underwear: Requires version 1.0.0 but mod is not found on client.
+AstikorCarts: Requires version 1.12.2-0.1.2.8 but mod is not found on client.
+Attribute Fix: Requires version 1.0.12 but mod is not found on client.
+AutoRegLib: Requires version 1.3-32 but mod is not found on client.
+B.A.S.E: Requires version 3.14.0 but mod is not found on client.
+BQ Multiblock and Structure Expansion: Requires version 1.0.9 but mod is not found on client.
+BQTweaker: Requires version 1.3.5 but mod is not found on client.
+Battle Towers: Requires version 1.6.5 but mod is not found on client.
+Baubles: Requires version 1.5.2 but mod is not found on client.
+Better Nether: Requires version 0.1.8.6 but mod is not found on client.
+Better Questing: Requires version 3.5.329 but mod is not found on client.
+Better Survival: Requires version 1.5.3 but mod is not found on client.
+BetterTabs: Requires version 1.0.4 but mod is not found on client.
+Bloodmoon: Requires version 1.5.3 but mod is not found on client.
+Bountiful: Requires version 2.2.3 but mod is not found on client.
+Bountiful Baubles: Requires version 0.0.1 but mod is not found on client.
+Callable Horses: Requires version 1.1.1 but mod is not found on client.
+Carrots Lib: Requires version 1.0.0b1 but mod is not found on client.
+Carry On: Requires version 1.12.3 but mod is not found on client.
+Champions: Requires version 1.12.2-1.0.11.10 but mod is not found on client.
+Charm: Requires version 1.4 but mod is not found on client.
+Classy Hats: Requires version %VERSION% but mod is not found on client.
+CollisionDamage: Requires version 1.2.2 but mod is not found on client.
+Comforts: Requires version 1.4.1.3 but mod is not found on client.
+CompatSkills: Requires version 1.12.2-1.17.0 but mod is not found on client.
+ContentTweaker: Requires version 1.12.2-4.10.0 but mod is not found on client.
+Coralreef: Requires version 2.0 but mod is not found on client.
+Corpse Complex: Requires version 1.0.12.0 but mod is not found on client.
+CraftTweaker JEI Support: Requires version 2.0.3 but mod is not found on client.
+CraftTweaker2: Requires version 4.1.20 but mod is not found on client.
+Craftable Chainmail: Requires version 1.0 but mod is not found on client.
+CreativeCore: Requires version 1.10.0 but mod is not found on client.
+Defiled Lands: Requires version 1.4.3 but mod is not found on client.
+Disenchanter: Requires version 1.8 but mod is not found on client.
+Dynamic Trees: Requires version 1.12.2-0.9.29 but mod is not found on client.
+Dynamic Trees for Defiled Lands: Requires version 1.12.2-1.0.0 but mod is not found on client.
+Dynamic Trees for Traverse: Requires version 1.12.2-2.1 but mod is not found on client.
+Elenai Dodge: Requires version 2.1 but mod is not found on client.
+Enhanced Visuals: Requires version 1.3.0 but mod is not found on client.
+Familiar Fauna: Requires version 1.0.11 but mod is not found on client.
+First Aid: Requires version 1.6.22 but mod is not found on client.
+Fishing Made Better: Requires version 2.2.6 but mod is not found on client.
+Food Expansion: Requires version 1.3 but mod is not found on client.
+Forge Endertech: Requires version 1.12.2-4.5.6.1 but mod is not found on client.
+Forgotten Items: Requires version 1.2.1 but mod is not found on client.
+Grappling hook mod: Requires version 1.12.2-v12.3 but mod is not found on client.
+Ice and Fire: Requires version 1.7.1 but mod is not found on client.
+Infernal Mobs: Requires version 1.7.6 but mod is not found on client.
+Inspirations: Requires version 1.12.2-0.2.9 but mod is not found on client.
+Kiwi: Requires version 0.5.3.32 but mod is not found on client.
+LLibrary: Requires version 1.7.20 but mod is not found on client.
+Level Up! Reloaded: Requires version ${version} but mod is not found on client.
+LibrarianLib: Requires version 4.22 but mod is not found on client.
+LibrarianLib Stage 2: Requires version 4.22 but mod is not found on client.
+Locks: Requires version 3.0.0 but mod is not found on client.
+Lycanites Mobs: Requires version 2.0.8.9 - MC 1.12.2 but mod is not found on client.
+MTLib: Requires version 3.0.7 but mod is not found on client.
+Macaw's Bridges: Requires version 1.0.6 but mod is not found on client.
+Mantle: Requires version 1.12-1.3.3.55 but mod is not found on client.
+MaterialTweaker: Requires version 1.1.1 but mod is not found on client.
+MmmMmmMmmMmm: Requires version 1.12 but mod is not found on client.
+Mo' Bends: Requires version 1.2.1 but mod is not found on client.
+Mod Tweaker: Requires version 4.0.19 but mod is not found on client.
+Multi Mine: Requires version 1.6.2 but mod is not found on client.
+No Tree Punching: Requires version 2.0.21 but mod is not found on client.
+Pigstep: Requires version 1.12 but mod is not found on client.
+Potion Core: Requires version 1.9_for_1.12.2 but mod is not found on client.
+Potion Fingers: Requires version r1.0-8 but mod is not found on client.
+Quality Tools: Requires version 1.0.7_for_1.12.2 but mod is not found on client.
+RLArtifacts: Requires version 1.1.2 but mod is not found on client.
+RLCombat: Requires version 2.0.8 but mod is not found on client.
+RLMixins: Requires version 1.2.14 but mod is not found on client.
+Reach Fix: Requires version 1.0.8 but mod is not found on client.
+Realistic Torches: Requires version 2.1.2 but mod is not found on client.
+Reborn Core: Requires version 3.19.5 but mod is not found on client.
+Reskillable: Requires version 1.12.2-1.13.0 but mod is not found on client.
+Rin's So Many Enchantments?: Requires version 0.5.5 but mod is not found on client.
+Rough Tweaks: Requires version 1.0 but mod is not found on client.
+Rustic: Requires version 1.1.7 but mod is not found on client.
+Scaling Health: Requires version 1.3.37 but mod is not found on client.
+Scape and Run Parasites: Requires version 1.9.11 but mod is not found on client.
+Serene Seasons: Requires version 1.2.18 but mod is not found on client.
+Set Bonus: Requires version 1.12.2.020 but mod is not found on client.
+Silent Lib: Requires version 3.0.13 but mod is not found on client.
+SimpleDifficulty: Requires version 0.3.9 but mod is not found on client.
+Sit: Requires version v1.3 but mod is not found on client.
+Snow! Real Magic!: Requires version 0.7.1 but mod is not found on client.
+Spartan Defiled: Requires version 1.0 but mod is not found on client.
+Spartan Fire: RLCraft: Requires version 1.1.0 but mod is not found on client.
+Spartan Shields: Requires version 1.5.5 but mod is not found on client.
+Spartan Weaponry: Requires version 1.5.3 but mod is not found on client.
+Standard Expansion: Requires version 3.4.173 but mod is not found on client.
+Switch-Bow: Requires version 1.6.8 but mod is not found on client.
+Tool Belt: Requires version 1.9.14 but mod is not found on client.
+Traverse: Requires version 1.6.0 but mod is not found on client.
+Trinkets and Baubles: Requires version 0.32 but mod is not found on client.
+Trumpet Skeleton: Requires version 1.12-1.0.2.1 but mod is not found on client.
+TschippLib: Requires version 1.1.3 or above but mod is not found on client.
+Tumbleweed: Requires version 1.12-0.4.7 but mod is not found on client.
+Varied Commodities: Requires version 1.12.2 but mod is not found on client.
+Waystones: Requires version 4.1.0 but mod is not found on client.
+Wearable Backpacks RLCraft Edition: Requires version 3.2.6 but mod is not found on client.
+Wolf Armor and Storage: Requires version 3.8.1+alpha.1 but mod is not found on client.
+XP Tome: Requires version v1.1.6 but mod is not found on client.
+iChunUtil: Requires version 7.2.0 or above, and below 7.3.0 but mod is not found on client.
+playerbosses: Requires version 1.0 but mod is not found on client.
+[03:29:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Aoshix_men left the game
