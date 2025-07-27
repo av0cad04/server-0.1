@@ -1,0 +1,6 @@
+RLCraft_SmallUndergroundSkeleton,-5063,-5055,4513,4521
+RLCraft_SmallUndergroundSkeleton,-4974,-4966,4500,4508
+StonePlantMound3,-4927,-4918,4510,4521
+RLCraft_4Towers,-4929,-4869,4448,4500
+VillageInn,-5002,-4982,4333,4360
+StonePlantMound,-4963,-4958,4364,4369

@@ -1,0 +1,6 @@
+ShrineSmallFire,5134,5144,9448,9458
+SmallWoodenCottage2,5134,5142,9419,9427
+RLCraft_DecentWitch,5139,5139,9498,9498
+RLCraft_UndergroundRuin2,5134,5144,9496,9503
+RLCraft_SmallUndergroundSkeleton,5168,5176,9431,9439
+WoodWallRemains,5139,5167,9361,9369

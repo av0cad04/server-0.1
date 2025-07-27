@@ -1,0 +1,2 @@
+SmallWoodenCottage2,4968,4976,9388,9396
+ElvenPond,4833,4862,9328,9358

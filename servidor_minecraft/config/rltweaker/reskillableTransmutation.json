@@ -1,0 +1,6 @@
+{
+  "minecraft:stick": [
+    {
+      "input": {
+        "id": "minecraft:air",
+        "metadata": 0
