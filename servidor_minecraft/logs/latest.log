@@ -1,47 +1,36 @@
-[00:00:34] [Async Chat Thread - #13/INFO]: [Not Secure] <JOSEPH92102> aca hay ovejas
-[00:01:18] [Server thread/INFO]: Avocado_20 was blown up by Creeper
-[00:02:12] [Server thread/INFO]: Avocado_20 lost connection: Disconnected
-[00:02:12] [Server thread/INFO]: Avocado_20 left the game
-[00:03:46] [Async Chat Thread - #14/INFO]: [Not Secure] <Wolfgood11> cocina la comida
-[00:03:49] [Async Chat Thread - #14/INFO]: [Not Secure] <JOSEPH92102> casi me muero
-[00:04:57] [Server thread/INFO]: JOSEPH92102 has made the advancement [Monster Hunter]
-[00:07:13] [Async Chat Thread - #16/INFO]: [Not Secure] <Wolfgood11> q haces?
-[00:07:25] [Async Chat Thread - #16/INFO]: [Not Secure] <JOSEPH92102> y el barco???
-[00:08:00] [Async Chat Thread - #16/INFO]: [Not Secure] <JOSEPH92102> para
-[00:08:03] [Server thread/INFO]: Stopping the server
-[00:08:03] [Server thread/INFO]: Stopping server
-[00:08:03] [Server thread/INFO]: Saving players
-[00:08:03] [Server thread/INFO]: JOSEPH92102 lost connection: Server closed
-[00:08:03] [Server thread/INFO]: JOSEPH92102 left the game
-[00:08:03] [Server thread/INFO]: Wolfgood11 lost connection: Server closed
-[00:08:03] [Server thread/INFO]: Wolfgood11 left the game
-[00:08:03] [Server thread/INFO]: Saving worlds
-[00:08:03] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[00:08:03] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
-[00:08:03] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
-[00:08:03] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
-[00:08:04] [Server thread/INFO]: [ChunkHolderManager] Saved 587 block chunks, 331 entity chunks, 0 poi chunks in world 'world' in 0.96s
-[00:08:04] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world'
-[00:08:04] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world'
-[00:08:04] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
-[00:08:04] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
-[00:08:04] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
-[00:08:04] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
-[00:08:04] [Server thread/INFO]: [ChunkHolderManager] Saved 1 block chunks, 3 entity chunks, 0 poi chunks in world 'world_nether' in 0.00s
-[00:08:04] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_nether'
-[00:08:04] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_nether'
-[00:08:04] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
-[00:08:04] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
-[00:08:04] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
-[00:08:04] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
-[00:08:04] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 5 entity chunks, 0 poi chunks in world 'world_the_end' in 0.00s
-[00:08:04] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_the_end'
-[00:08:04] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_the_end'
-[00:08:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[00:08:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[00:08:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[00:08:04] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
-[00:08:04] [Server thread/INFO]: Waiting for all RegionFile I/O tasks to complete...
-[00:08:04] [Server thread/INFO]: All RegionFile I/O tasks to complete
-[00:08:04] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of worker pool for up to 60s...
-[00:08:04] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of I/O pool for up to 60s...
+[00:20:25] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[00:20:25] [ServerMain/INFO]: Found non-pack entry './world/datapacks/skinrestorer-2.4.3+1.21.6-fabric.jar', ignoring
+[00:20:25] [ServerMain/WARN]: Missing data pack paper
+[00:20:27] [ServerMain/INFO]: Loaded 1407 recipes
+[00:20:27] [ServerMain/INFO]: Loaded 1520 advancements
+[00:20:27] [Server thread/INFO]: Starting minecraft server version 1.21.8
+[00:20:27] [Server thread/INFO]: Loading properties
+[00:20:27] [Server thread/INFO]: Default game type: SURVIVAL
+[00:20:27] [Server thread/INFO]: Generating keypair
+[00:20:27] [Server thread/INFO]: Starting Minecraft server on *:25565
+[00:20:27] [Server thread/INFO]: Using epoll channel type
+[00:20:27] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[00:20:27] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[00:20:27] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[00:20:27] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[00:20:27] [Server thread/INFO]: Preparing level "world"
+[00:20:27] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[00:20:32] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[00:20:32] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[00:20:32] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[00:20:32] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[00:20:32] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[00:20:32] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[00:20:32] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[00:20:32] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[00:20:32] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[00:20:32] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:20:32] [Server thread/INFO]: Time elapsed: 4608 ms
+[00:20:32] [Server thread/INFO]: Done (4.967s)! For help, type "help"
+[00:21:32] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[00:24:37] [Server thread/INFO]: JOSEPH92102[/127.183.191.169:55759] logged in with entity id 16 at (602.2914268443742, 62.03236431121826, -297.98739391238826)
+[00:24:37] [Server thread/INFO]: JOSEPH92102 joined the game
+[00:36:13] [Server thread/INFO]: [Not Secure] * JOSEPH92102 skin
+[00:37:05] [Server thread/INFO]: JOSEPH92102 lost connection: Disconnected
+[00:37:05] [Server thread/INFO]: JOSEPH92102 left the game
+[00:38:05] [Server thread/INFO]: Server empty for 60 seconds, pausing
